@@ -18,13 +18,40 @@
 
       <div class="contactForm">
         <form
-          action="https://formsubmit.co/nathaniel.mwabz@gmail.com"
+          action="https://formsubmit.co/5f4c00253432ee64162dc0d9b2efe96a"
           method="POST"
         >
+          <!-- Honeypot -->
+          <input type="text" name="_honey" style="display: none" />
+
+          <!-- Disable Captcha -->
+          <input type="hidden" name="_captcha" value="false" />
+
           <p class="para para2">Fill the form, we'll send a rider to you.</p>
-          <input type="text" class="input" placeholder="your name" />
-          <input type="tel" class="input" placeholder="your number" />
-          <input type="text" class="input" placeholder="your Location" />
+          <input
+            type="text"
+            class="input"
+            name="name"
+            placeholder="your name"
+          />
+          <input
+            type="tel"
+            class="input"
+            name="phone"
+            placeholder="your number"
+          />
+          <input
+            type="email"
+            class="input"
+            name="email"
+            placeholder="your email"
+          />
+          <input
+            type="text"
+            class="input"
+            name="location"
+            placeholder="your location"
+          />
           <button type="submit" class="btn" value="Make Deposit">
             Make Deposit
           </button>
