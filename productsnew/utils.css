@@ -1,0 +1,22 @@
+.butn {
+  display: inline-block;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: -0.05em;
+  padding: 0.5em 1em;
+  border-radius: 6px;
+
+  background-color: var(--clr-peach);
+  box-shadow: 0 10px 20px var(--clr-peach-light),
+    0 6px 6px var(--clr-peach-light);
+  color: var(--clr-light);
+  text-shadow: 0 10px 20px var(--clr-peach-light);
+  /* transition: transform 0.5s, box shadow 0.5s; */
+  transition: all 400ms ease-in-out;
+}
+
+.butn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 28px rgb(255, 200, 221, 0.25),
+    0 10px 10px rgb(255, 200, 221, 0.22), 0 0 100px -10px var(--clr-peach-light);
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": " 20L Bottle New",
+    "price": 500,
+    "image": "img/20l bottle.png"
+  },
+  {
+    "id": 2,
+    "name": " 10L Bottle New",
+    "price": 230,
+    "image": "img/10l bottle.png"
+  },
+  {
+    "id": 3,
+    "name": " 5L Bottle New",
+    "price": 120,
+    "image": "img/5Lbottle.png"
+  },
+  {
+    "id": 4,
+    "name": " 20L Bottle Refill",
+    "price": 350,
+    "image": "img/20l bottle.png"
+  },
+  {
+    "id": 5,
+    "name": " 10L Bottle Refill",
+    "price": 130,
+    "image": "img/10l bottle.png"
+  },
+  {
+    "id": 6,
+    "name": " 5L Bottle Refill",
+    "price": 70,
+    "image": "img/5Lbottle.png"
+  }
+]
