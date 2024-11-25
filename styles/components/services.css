@@ -47,16 +47,16 @@
 }
 
 .services__box--refill {
-  background-image: url(./images/refillmid.jpg);
+  background-image: url(/AquaUmoja/images/refillmid.jpg);
   background-position: center;
 }
 
 .services__box--purchase {
-  background-image: url(./images/purchase.jpg);
+  background-image: url(/AquaUmoja/images/purchase.jpg);
 }
 
 .services__box--deposit {
-  background-image: url(./images/deposit.jpg);
+  background-image: url(/AquaUmoja/images/deposit.jpg);
   background-position: center;
 }
 
