@@ -11,6 +11,19 @@
   position: relative;
 }
 
+@keyframes slideInRight {
+  0% {
+    opacity: 0;
+
+    filter: blur(5px);
+    transform: translateX(500%);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+  }
+}
 .hero__title {
   /* padding-top: 1rem; */
   color: var(--clr-light);
@@ -18,8 +31,22 @@
   text-transform: uppercase;
   font-size: var(--size-4xl);
   letter-spacing: -0.005em;
+  animation: slideInRight 2s ease;
 }
 
+@keyframes slideInLeft {
+  0% {
+    opacity: 0;
+
+    filter: blur(5px);
+    transform: translateX(-500%);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+  }
+}
 .hero__description {
   display: none;
 
@@ -35,6 +62,8 @@
   font-size: var(--size-s);
   font-weight: 400;
   letter-spacing: 0.05em;
+
+  animation: slideInLeft 2s ease;
 }
 
 .hero__motto {
