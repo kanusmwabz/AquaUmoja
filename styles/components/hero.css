@@ -31,7 +31,6 @@
   text-transform: uppercase;
   font-size: var(--size-4xl);
   letter-spacing: -0.005em;
-  animation: slideInRight 2s ease;
 }
 
 @keyframes slideInLeft {
@@ -62,8 +61,6 @@
   font-size: var(--size-s);
   font-weight: 400;
   letter-spacing: 0.05em;
-
-  animation: slideInLeft 2s ease;
 }
 
 .hero__motto {
@@ -89,6 +86,10 @@
   top: 0;
   left: 50%;
   transform: translate(-50%, 15%);
+  animation: slideInLeft 2s ease;
+}
+.hero__desc {
+  animation: slideInRight 2s ease;
 }
 
 /* xs */
