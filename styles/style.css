@@ -5,6 +5,9 @@
   --clr-peach: #ffc8dd;
   --clr-peach-light: rgb(255, 200, 221, 0.5);
   --clr-blue: #a2d2ff;
+  --clr-white: #fff;
+  --clr-black: #000;
+  
   /* sizes */
   --size-xxs: 0.5rem;
   --size-xs: 0.75rem;
@@ -21,11 +24,13 @@
   --size-8xl: 6rem;
   --size-9xl: 8rem;
   --size-10xl: 10rem;
+
+  /*gradient*/
+  --bg-gradient:linear-gradient(45deg, var(--clr-blue), var(--clr-light));
 }
 
+/* Apply a consistent margin and line-height for all elements */
 * {
-  /* Apply a consistent margin and line-height for all elements */
-
   margin: 0;
   line-height: calc(1em + 0.5rem);
 }
