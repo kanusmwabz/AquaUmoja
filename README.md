@@ -50,5 +50,11 @@ Overall, this page combines an efficient request form with logistical details, e
 
 
 SET UP PROCESS TO ACQUIRE THE ENTIRE PROGRAM ON YOUR DESKTOP
-1. Create an empty repository.
-2. In this repository, open the folder using your VS Code program (you will need to have installed VS Code to your system before beginning this entire process)
+1. Create an empty folder on your local computer.
+2. open the terminal on your computer
+3. Use the cd command to go through the various folders in your computer system and locate where yhe folder you hjave created is.
+4. Ensure it is the correct folder by using the pwd command to inspect your current folder location status on the terminal.
+5. At this folder, open the folder using your VS Code program (you will need to have installed VS Code to your system before beginning this entire process). This can be done using the code . comannd
+6. Once open go to the terminal on the opened VS Code program
+7. 
+8. 
