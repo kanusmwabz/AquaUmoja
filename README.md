@@ -56,5 +56,6 @@ SET UP PROCESS TO ACQUIRE THE ENTIRE PROGRAM ON YOUR DESKTOP
 4. Ensure it is the correct folder by using the pwd command to inspect your current folder location status on the terminal.
 5. At this folder, open the folder using your VS Code program (you will need to have installed VS Code to your system before beginning this entire process). This can be done using the code . comannd
 6. Once open go to the terminal on the opened VS Code program
-7. 
-8. 
+7. Paste the command git init to initialize the folder to a git repository folder.
+8. Once initialized, carry out the command git remote set-url origin 
+9. 
