@@ -22,7 +22,7 @@ I) Functionality of the buttons and links.
 	    i. Contains links to social media pages
 
 II) Responsivity
-  The website is responsive, at  smaller screen sizes the services changes to a column direction and a hamburger menu pops up in the nav.
+  The website is fully responsive, at  smaller screen sizes the services changes to a column direction and a hamburger menu pops up in the nav.
   Furthermore, the various images assume a column flex direction to fit into smaller screen sizes
 
 III)About section 
