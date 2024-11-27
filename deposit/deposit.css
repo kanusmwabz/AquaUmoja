@@ -155,6 +155,7 @@ form {
   border-radius: 20px;
 }
 
+/*Code below adjusts CSS of the map of delivery*/
 .map {
   position: absolute;
   bottom: 0;
