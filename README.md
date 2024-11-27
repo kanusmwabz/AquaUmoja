@@ -1,4 +1,4 @@
-# ONLINE-WATER-VENDING-SYSTEM
+# 						ONLINE-WATER-VENDING-SYSTEM
 The AquaUmoja website is the official website of an aspiring company which looks to provide water and reduce the amount of water bottle littering with a deposit incentive.
 The website consists of 4 major pages each created by pairs of group members i.e The Landing Page, The Products Page, The Sign up/Log in Page and lastly the Deposit Page.
 
