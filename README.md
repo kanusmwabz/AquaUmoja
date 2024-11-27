@@ -57,5 +57,7 @@ SET UP PROCESS TO ACQUIRE THE ENTIRE PROGRAM ON YOUR DESKTOP
 5. At this folder, open the folder using your VS Code program (you will need to have installed VS Code to your system before beginning this entire process). This can be done using the code . comannd
 6. Once open go to the terminal on the opened VS Code program
 7. Paste the command git init to initialize the folder to a git repository folder.
-8. Once initialized, carry out the command git remote set-url origin 
-9. 
+8. Once initialized, carry out the command git remote set-url origin https://github.com/kanusmwabz/AquaUmoja.git
+9. Then carry out the command git pull to pull all the content of the online repository to your local folder. 
+
+ALTERNATIVE
