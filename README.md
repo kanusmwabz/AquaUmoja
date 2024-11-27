@@ -47,3 +47,7 @@ These features are essential for ensuring a secure and personalized shopping exp
 The Deposit page is designed for users who wish to arrange a bottle pick-up service. The page features a simple, easy-to-navigate form that requests information such as the user's name, contact details, the number of bottles they wish to return, and the preferred pick-up location. Once the user submits the form, the information is automatically sent to the official Aquaumoja email address, where the team can follow up with the user directly to confirm the pick-up details.
 This process allows customers to request bottle returns in a convenient manner while maintaining communication with the company. Additionally, a map or address of the deposit station (where the bottles are dropped off after being picked up) is displayed on the page. This helps users to understand where their bottles will eventually be returned and ensures that they know exactly where to expect the pick-up service.
 Overall, this page combines an efficient request form with logistical details, ensuring both clear communication and a smooth service experience.
+
+
+SET UP PROCESS TO ACQUIRE THE ENTIRE PROGRAM ON YOUR DESKTOP
+1. Create an empty repository. 
