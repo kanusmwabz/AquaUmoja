@@ -49,7 +49,7 @@
 .hero__description {
   display: none;
 
-  color: var(--clr-light);
+  color: var(--clr-dark);
   padding: 1.5rem;
   border: none;
   border-radius: 15px;
