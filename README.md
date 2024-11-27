@@ -33,20 +33,17 @@ IV) ANIMATIONS
   Furthermore, on scroll sections coming into the viewport fade into the frame.
 
 
-2. SERVICES (TUMAINI AND YNA)
-For the services we have a grid of products that we offer, when one wants to add a product to the cart they can click the add to cart button.
-Products added to the cart can be multiplied in the cart itself thus more than one product can also be added to the cart.
-Totals are calculated for each product individually.
-The page is still responsive and the number of columns in the grid reduces for smaller screen sizes.
+2) SERVICES (TUMAINI AND YNA)
+On the Services page, we offer a grid layout displaying various products for customers to browse. The grid is organized by product categories or types, allowing users to explore different offerings easily. Each product card has a "Add to Cart" button, enabling users to add items to their shopping cart with a single click.
+Once a product is added to the cart, the user can view the cart, where they can modify quantities by increasing or decreasing the number of items. The cart's total is dynamically updated for each product, reflecting changes in quantity. For example, if a user adds two items of the same product, the total for that product will multiply accordingly, such as doubling the price.
+Additionally, the page is designed to be responsive. On smaller screens (e.g., mobile devices), the number of columns in the product grid will automatically reduce to ensure that the layout remains user-friendly and easy to navigate, enhancing the overall shopping experience.
 
+3) SIGN UP AND LOGIN (NAKIRA, YAN, MISAAL)
+The Sign Up page allows new users to create an account. This page includes fields such as name, email, password, and any other necessary information required for account creation. The page uses JavaScript validation to ensure all fields are filled correctly. For example, if a required field is left empty or the email format is invalid, the user will be alerted with an error message. The validation ensures smooth registration and avoids incomplete submissions.
+Once the user has signed up, they can log in by clicking the Login button or selecting the user icon on the website. The Login page prompts users to enter their credentials (username and password), and JavaScript validation is again used to check that the inputs are not empty and match the account details. If the credentials are incorrect, the user is shown a message prompting them to try again.
+These features are essential for ensuring a secure and personalized shopping experience, as creating an account helps the system save user preferences and past orders for future visits.
 
-3. SIGNUP AND LOGIN (NAKIRA , YAN , MISAAL)
-Clicking the sign up page allows the user to create an account which would save their information for future purchases. 
-Clicking the user icon allows the user to login into an existing account.
-Both pages use Javascript for user validation which ensures all fields are filled and errors are shown if not.
-
-
-4. DEPOSIT (JEREMY, NIMO)
-The deposit page shows a form that allows the user to contact us in order to make a request for a bottle pick up.
-After the form is filled all the information is sent to the offical Aquaumoja email which allows us to contact the user personally.
-The page also shows the location of the deposit station where the pick up ends up.
+4) DEPOSIT (JEREMY AND NIMO)
+The Deposit page is designed for users who wish to arrange a bottle pick-up service. The page features a simple, easy-to-navigate form that requests information such as the user's name, contact details, the number of bottles they wish to return, and the preferred pick-up location. Once the user submits the form, the information is automatically sent to the official Aquaumoja email address, where the team can follow up with the user directly to confirm the pick-up details.
+This process allows customers to request bottle returns in a convenient manner while maintaining communication with the company. Additionally, a map or address of the deposit station (where the bottles are dropped off after being picked up) is displayed on the page. This helps users to understand where their bottles will eventually be returned and ensures that they know exactly where to expect the pick-up service.
+Overall, this page combines an efficient request form with logistical details, ensuring both clear communication and a smooth service experience.
