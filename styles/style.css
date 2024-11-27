@@ -69,7 +69,7 @@ h3 {
   font-size: var(--size-2xl);
   letter-spacing: -0.005em;
 }
-
+/* CSS code for li tags */
 li {
   list-style: none;
 }
