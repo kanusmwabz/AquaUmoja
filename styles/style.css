@@ -24,6 +24,8 @@
 }
 
 * {
+  /* Apply a consistent margin and line-height for all elements */
+
   margin: 0;
   line-height: calc(1em + 0.5rem);
 }
@@ -65,9 +67,10 @@ a {
 h3 {
   color: var(--clr-light);
   /* text-shadow: 0px 5px 5px var(--clr-peach); */
-  text-transform: uppercase;
+  text-transform: uppercase;/* Ensure text is all caps */
+
   font-size: var(--size-2xl);
-  letter-spacing: -0.005em;
+  letter-spacing: -0.005em;/* Fine-tune spacing */
 }
 /* CSS code for li tags */
 li {
