@@ -12,6 +12,7 @@
   text-align: center;
 }
 
+/* the above code affects the navbar of the mobile version */
 .mobile-nav__menu {
   list-style: none;
   padding: 0;
