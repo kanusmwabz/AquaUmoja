@@ -61,3 +61,6 @@ SET UP PROCESS TO ACQUIRE THE ENTIRE PROGRAM ON YOUR DESKTOP
 9. Then carry out the command git pull to pull all the content of the online repository to your local folder. 
 
 ALTERNATIVE
+- you can fork the repository and clone it to your local folder using the HTTP links
+
+
