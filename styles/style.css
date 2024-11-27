@@ -32,6 +32,7 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Below is code referrencing the style of the entire main page */
 body {
   font-family: "General Sans", sans-serif;
   background: linear-gradient(45deg, var(--clr-blue), var(--clr-light));
