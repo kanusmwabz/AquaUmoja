@@ -50,6 +50,7 @@ section {
   max-width: 550px;
   margin: auto;
   margin-top: 2em;
+  cursor: pointer;
 }
 
 .heading,
