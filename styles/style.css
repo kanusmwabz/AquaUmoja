@@ -1,7 +1,7 @@
 :root {
   /* colors */
   --clr-light: #fafafa;
-  --clr-dark: rgb(2, 6, 23);
+  --clr-dark: #575757;
   --clr-peach: #ffc8dd;
   --clr-peach-light: rgb(255, 200, 221, 0.5);
   --clr-blue: #a2d2ff;
@@ -24,6 +24,8 @@
 }
 
 * {
+  /* Apply a consistent margin and line-height for all elements */
+
   margin: 0;
   line-height: calc(1em + 0.5rem);
 }
@@ -32,6 +34,7 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Below is code referrencing the style of the entire main page */
 body {
   font-family: "General Sans", sans-serif;
   background: linear-gradient(45deg, var(--clr-blue), var(--clr-light));
@@ -47,6 +50,7 @@ svg {
   user-select: none;
 }
 
+/* CSS code for button below */
 button {
   display: inline-block;
   padding: 0;
@@ -55,19 +59,20 @@ button {
   cursor: pointer;
   color: inherit;
 }
-
+/* Css code for a tags */
 a {
   text-decoration: none;
 }
-
+/* Css code for h3 below comment */
 h3 {
   color: var(--clr-light);
   /* text-shadow: 0px 5px 5px var(--clr-peach); */
-  text-transform: uppercase;
-  font-size: var(--size-2xl);
-  letter-spacing: -0.005em;
-}
+  text-transform: uppercase;/* Ensure text is all caps */
 
+  font-size: var(--size-2xl);
+  letter-spacing: -0.005em;/* Fine-tune spacing */
+}
+/* CSS code for li tags */
 li {
   list-style: none;
 }

@@ -15,6 +15,7 @@
   --clr-peach: #ffc8dd;
   --clr-peach-light: rgb(255, 200, 221, 0.5);
   --clr-blue: #a2d2ff;
+  --clr-red: #555;
 
   --size-xxs: 0.5rem;
   --size-xs: 0.75rem;
@@ -40,6 +41,7 @@ body {
   padding-bottom: 5em;
 }
 
+/* code below adjusts css of the item columns*/
 section {
   display: flex;
   flex-direction: column;
@@ -57,6 +59,7 @@ section {
   font-weight: bold;
 }
 
+/* Code below adjusts css of subheading*/
 .heading {
   color: var(--clr-darl);
   text-shadow: 0px 5px 5px var(--clr-light);
@@ -152,6 +155,7 @@ form {
   border-radius: 20px;
 }
 
+/*Code below adjusts CSS of the map of delivery*/
 .map {
   position: absolute;
   bottom: 0;
@@ -160,6 +164,7 @@ form {
   height: 90%;
 }
 
+/*Ajusts the css of the image frame of the map*/
 .map iframe {
   width: 100%;
   height: 100%;
