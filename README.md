@@ -50,4 +50,5 @@ Overall, this page combines an efficient request form with logistical details, e
 
 
 SET UP PROCESS TO ACQUIRE THE ENTIRE PROGRAM ON YOUR DESKTOP
-1. Create an empty repository. 
+1. Create an empty repository.
+2. In this repository, open the folder using your VS Code program (you will need to have installed VS Code to your system before beginning this entire process)
