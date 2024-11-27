@@ -56,6 +56,7 @@
   padding-left: 0.5rem;
   padding-right: 0.5rem;
   /* border: 1px solid red; */
+  display: flex; 
 }
 
 .section {
