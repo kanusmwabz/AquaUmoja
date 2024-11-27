@@ -51,7 +51,6 @@ section {
   margin: auto;
   margin-top: 2em;
   cursor: pointer;
-  padding: 0;
 }
 
 .heading,
@@ -134,7 +133,6 @@ form {
   color: var(--clr-light);
   text-shadow: 0 10px 20px var(--clr-peach-light);
   transition: all 400ms ease-in-out;
-  padding: 0;
 }
 
 .btn:hover {
